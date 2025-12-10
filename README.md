@@ -21,20 +21,18 @@
 
 
 <div align="center">
-
   <br/>
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
   <br/>
 </div>
+
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/hustcc/university-logos/master/zhejiang-university.png" height="80" alt="Zhejiang University" />
+  <img src="https://github.com/user-attachments/assets/a231e932-2c6a-4426-9f95-1a8c14c1e8c6" height="80" alt="Zhejiang University" />
   
   &nbsp;&nbsp;
 
