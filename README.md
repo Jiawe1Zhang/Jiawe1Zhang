@@ -6,24 +6,19 @@
 
 <br/>
 
-~~~bash
-jiawei@nus:~$ whoami
-> Graduate Student (Robotics) @ NUS
+### 👋 About Me
 
-jiawei@nus:~$ cat current_focus.txt
-> Researching LLM Agents, RAG, and Embodied AI.
-> Working on "Jarvis" Agent Framework.
+- 🎓 Graduate Student in **Robotics @ NUS**
+- 🤖 Researching **LLM Agents, RAG, Embodied AI**
+- 🧠 Building the **"Jarvis" Agent Framework**
+- 🛠 Tech Stack:
+  - **Languages**: Python, C++, SQL
+  - **AI**: PyTorch, LangChain, HuggingFace
+  - **Tools**: Docker, Git, Linux, WandB
+- 🎮 Hobbies: Magic: The Gathering, Coding  
 
-jiawei@nus:~$ cat tech_stack.json
-{
-  "languages": ["Python", "C++", "SQL"],
-  "ai_frameworks": ["PyTorch", "LangChain", "HuggingFace"],
-  "tools": ["Docker", "Git", "Linux", "WandB"],
-  "hobbies": ["Magic: The Gathering", "Coding"]
-}
+> *"Let's build something amazing!"*
 
-jiawei@nus:~$ echo "Let's build something amazing!"
-~~~
 
 <div align="center">
 
