@@ -38,12 +38,11 @@ jiawei@nus:~$ echo "Let's build something amazing!"
   <br/>
   <br/>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jiawe1Zhang&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=C9D1D9" alt="Jiawei's Stats" />
-  </a>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiawe1Zhang&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Jiawei's Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jiawe1Zhang&show_icons=true&theme=dark&hide_border=true" alt="Jiawei's Stats" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiawe1Zhang&layout=compact&theme=dark&hide_border=true" alt="Jiawei's Languages" />
 
 </div>
