@@ -36,16 +36,16 @@
 <div align="center">
 
   <!-- ZJU -->
-  <img src="https://upload.wikimedia.org/wikipedia/en/0/0d/Zhejiang_University_seal.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/hustcc/university-logos/master/zhejiang-university.png" height="80" />
 
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- UIUC -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Illinois_Fighting_Illini_logo.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/hustcc/university-logos/master/university-of-illinois-urbana-champaign.png" height="80" />
 
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- NUS -->
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/87/National_University_of_Singapore_%28crest%29.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/hustcc/university-logos/master/national-university-of-singapore.png" height="80" />
 
 </div>
