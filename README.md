@@ -41,7 +41,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- UIUC -->
-  <img src="https://raw.githubusercontent.com/hustcc/university-logos/master/university-of-illinois-urbana-champaign.png" height="80" />
+  <img src="[https://raw.githubusercontent.com/hustcc/university-logos/master/university-of-illinois-urbana-champaign.png](https://github.com/Jiawe1Zhang/Jiawe1Zhang/issues/1#issue-3715098212)" height="80" />
 
   &nbsp;&nbsp;&nbsp;&nbsp;
 
