@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Jiawei+Zhang;Agents+Developer;Building+Agents" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Jiawei+Zhang;An+Agent+Developer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -9,13 +9,13 @@
 ### 👋 About Me
 
 - 🎓 Graduate Student in **Robotics @ NUS** now
-- 🤖 Researching **LLM Agents, RAG, Embodied AI**
-- 🧠 Building the **"JARVIS" Agent**
+- 🤖 Researching **LLM Agent, AIGC, Diffusion**
+- 🧠 Building the **"JARVIS" Agent** recently
 - 🛠 Tech Stack:
   - **Languages**: Python, C++, SQL
-  - **AI**: PyTorch, LangChain, HuggingFace
+  - **AI**: PyTorch, LangChain, LangGraph, HuggingFace
   - **Tools**: Docker, Git, Linux, WandB
-- 🎮 Hobbies: Magic: The Gathering, Coding, League of Legends
+- 🎮 Hobbies: Magic: The Gathering, League of Legends, Coding
 
 > *"GOD Bless Me!"*
 
