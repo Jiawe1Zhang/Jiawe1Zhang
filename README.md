@@ -8,16 +8,16 @@
 
 ### 👋 About Me
 
-- 🎓 Graduate Student in **Robotics @ NUS**
+- 🎓 Graduate Student in **Robotics @ NUS** now
 - 🤖 Researching **LLM Agents, RAG, Embodied AI**
-- 🧠 Building the **"Jarvis" Agent Framework**
+- 🧠 Building the **"JARVIS" Agent**
 - 🛠 Tech Stack:
   - **Languages**: Python, C++, SQL
   - **AI**: PyTorch, LangChain, HuggingFace
   - **Tools**: Docker, Git, Linux, WandB
-- 🎮 Hobbies: Magic: The Gathering, Coding  
+- 🎮 Hobbies: Magic: The Gathering, Coding, League of Legends
 
-> *"Let's build something amazing!"*
+> *"GOD Bless Me!"*
 
 
 <div align="center">
