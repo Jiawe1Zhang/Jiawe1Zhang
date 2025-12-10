@@ -32,14 +32,8 @@
 
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/a231e932-2c6a-4426-9f95-1a8c14c1e8c6" height="80" alt="Zhejiang University" />
-  
-  &nbsp;&nbsp;
-
-  <img src="https://github.com/user-attachments/assets/b030302c-a2ba-4ee1-af0d-d2d9ec453d26" height="80" alt="UIUC" />
-
-  &nbsp;&nbsp;
-
+  <img src="https://github.com/user-attachments/assets/a231e932-2c6a-4426-9f95-1a8c14c1e8c6" height="80" alt="Zhejiang University" />&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/b030302c-a2ba-4ee1-af0d-d2d9ec453d26" height="80" alt="UIUC" />&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/645123e8-1cc3-4ae2-8f64-0be4ccf952b4" height="80" alt="NUS" />
 
 </div>
