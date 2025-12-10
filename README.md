@@ -36,7 +36,7 @@
   
   &nbsp;&nbsp;
 
-  <img src="https://raw.githubusercontent.com/hustcc/university-logos/master/university-of-illinois-urbana-champaign.png" height="80" alt="UIUC" />
+  <img src="https://github.com/user-attachments/assets/524823182-21007f45-51d5-4bbe-b9fd-f54e1bb6e566.png" height="80" alt="UIUC" />
 
   &nbsp;&nbsp;
 
