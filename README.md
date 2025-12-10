@@ -46,5 +46,6 @@ jiawei@nus:~$ echo "Let's build something amazing!"
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiawe1Zhang&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Jiawei's Languages" />
 </a>
+<br/>
 
 </div>
