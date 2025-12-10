@@ -39,10 +39,10 @@ jiawei@nus:~$ echo "Let's build something amazing!"
   <br/>
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Jiawe1Zhang&show_icons=true&theme=dark&hide_border=true" alt="Jiawei's Stats" />
-  
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=Jiawe1Zhang&show_icons=true&theme=dark&hide_border=true" />
+
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiawe1Zhang&layout=compact&theme=dark&hide_border=true" alt="Jiawei's Languages" />
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Jiawe1Zhang&layout=compact&theme=dark&hide_border=true" />
 
 </div>
