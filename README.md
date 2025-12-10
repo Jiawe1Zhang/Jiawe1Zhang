@@ -32,22 +32,16 @@
 
   <br/>
 </div>
-
 <div align="center">
 
-  <!-- ZJU -->
-  <img src="[https://raw.githubusercontent.com/hustcc/university-logos/master/zhejiang-university.png](https://github.com/user-attachments/assets/a231e932-2c6a-4426-9f95-1a8c14c1e8c6)" height="80" />
+  <img src="https://raw.githubusercontent.com/hustcc/university-logos/master/zhejiang-university.png" height="80" alt="Zhejiang University" />
+  
+  &nbsp;&nbsp;
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/hustcc/university-logos/master/university-of-illinois-urbana-champaign.png" height="80" alt="UIUC" />
 
-  <!-- UIUC -->
-  <img src="[https://raw.githubusercontent.com/hustcc/university-logos/master/university-of-illinois-urbana-champaign.png](https://github.com/Jiawe1Zhang/Jiawe1Zhang/issues/1#issue-3715098212)" height="80" />
+  &nbsp;&nbsp;
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- NUS -->
-  <div style="background-color:#001f3f; padding:10px; display:inline-block;">
-  <img src="[https://raw.githubusercontent.com/hustcc/university-logos/master/national-university-of-singapore.png](https://github.com/user-attachments/assets/645123e8-1cc3-4ae2-8f64-0be4ccf952b4)" height="80" />
-  </div>
+  <img src="https://raw.githubusercontent.com/hustcc/university-logos/master/national-university-of-singapore.png" height="80" alt="NUS" />
 
 </div>
