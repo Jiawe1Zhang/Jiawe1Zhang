@@ -40,6 +40,6 @@
 
   &nbsp;&nbsp;
 
-  <img src="https://raw.githubusercontent.com/hustcc/university-logos/master/national-university-of-singapore.png" height="80" alt="NUS" />
+  <img src="https://github.com/user-attachments/assets/645123e8-1cc3-4ae2-8f64-0be4ccf952b4" height="80" alt="NUS" />
 
 </div>
