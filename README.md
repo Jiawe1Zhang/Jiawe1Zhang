@@ -36,7 +36,7 @@
 <div align="center">
 
   <!-- ZJU -->
-  <img src="https://raw.githubusercontent.com/hustcc/university-logos/master/zhejiang-university.png" height="80" />
+  <img src="[https://raw.githubusercontent.com/hustcc/university-logos/master/zhejiang-university.png](https://github.com/user-attachments/assets/a231e932-2c6a-4426-9f95-1a8c14c1e8c6)" height="80" />
 
   &nbsp;&nbsp;&nbsp;&nbsp;
 
