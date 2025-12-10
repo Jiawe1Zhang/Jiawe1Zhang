@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Jiawei+Zhang;Robotics+%26+AI+Developer;Building+Agents+with+LLMs" alt="Typing SVG" />
+  </a>
 
-<!--
-**Jiawe1Zhang/Jiawe1Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+jiawei@nus:~$ whoami
+> Graduate Student (Robotics) @ NUS
+
+jiawei@nus:~$ cat current_focus.txt
+> Researching LLM Agents, RAG, and Embodied AI.
+> Working on "Jarvis" Agent Framework.
+
+jiawei@nus:~$ cat tech_stack.json
