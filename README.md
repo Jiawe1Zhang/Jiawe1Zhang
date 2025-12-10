@@ -36,13 +36,4 @@ jiawei@nus:~$ echo "Let's build something amazing!"
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
   <br/>
-  <br/>
-
-
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=Jiawe1Zhang&show_icons=true&theme=dark&hide_border=true" />
-
-  <br/>
-  
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Jiawe1Zhang&layout=compact&theme=dark&hide_border=true" />
-
 </div>
