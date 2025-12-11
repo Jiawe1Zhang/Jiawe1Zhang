@@ -12,7 +12,7 @@
 - 🤖 Researching **LLM Agent, AIGC, Diffusion**
 - 🧠 Building the **"JARVIS" Agent** recently
 - 🛠 Tech Stack:
-  - **Languages**: Python, C++, SQL
+  - **Languages**: Python, SQL, C++, Java
   - **AI**: PyTorch, LangChain, LangGraph, HuggingFace
   - **Tools**: Docker, Git, Linux, WandB
 - 🎮 Hobbies: Magic: The Gathering, League of Legends, Coding
