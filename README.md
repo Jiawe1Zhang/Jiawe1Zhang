@@ -15,7 +15,8 @@
   - **Languages**: **Python**, SQL, C++, Java
   - **AI**: **PyTorch**, LangChain, LangGraph, HuggingFace
   - **Tools**: **Docker**, **Git**, **Linux**, WandB
-- 🎮 Hobbies: Magic: The Gathering, League of Legends, Coding
+- 🎮 Hobbies: Magic: The Gathering, League of Legends, Coding, Hip-Hop Music
+- 
 
 > *"GOD Bless Me!"*
 
@@ -34,6 +35,6 @@
 
   <img src="https://github.com/user-attachments/assets/992952c3-da04-40c2-ac7c-fb8ab96b3760" height="75" alt="Zhejiang University" />&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/b030302c-a2ba-4ee1-af0d-d2d9ec453d26" height="60" alt="UIUC" />&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/645123e8-1cc3-4ae2-8f64-0be4ccf952b4" height="80" alt="NUS" />
+  <img src="https://github.com/user-attachments/assets/645123e8-1cc3-4ae2-8f64-0be4ccf952b4" height="90" alt="NUS" />
 
 </div>
