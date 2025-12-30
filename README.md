@@ -10,7 +10,7 @@
 
 - 🎓 Graduate Student in Robotics @ NUS now
 - 🤖 Researching **LLM Agent, AIGC, Diffusion**
-- 🧠 Building the **"JARVIS" Agent** recently
+- 🧠 Doing something interesting recently
 - 🛠 Tech Stack:
   - **Languages**: **Python**, SQL, C++, Java
   - **AI**: **PyTorch**, LangChain, LangGraph, HuggingFace
