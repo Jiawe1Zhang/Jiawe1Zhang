@@ -9,14 +9,8 @@
 ### 👋 About Me
 
 - 🎓 Graduate Student in Robotics @ NUS now
-- 🤖 Researching **LLM Agent, AIGC, Diffusion**
-- 🧠 Doing something interesting recently
-- 🛠 Tech Stack:
-  - **Languages**: **Python**, SQL, C++, Java
-  - **AI**: **PyTorch**, LangChain, LangGraph, HuggingFace
-  - **Tools**: **Docker**, **Git**, **Linux**, WandB
-- 🎮 Hobbies: Magic: The Gathering, League of Legends, Coding, Hip-Hop Music
-- 
+- 🤖 Researching **World Model**
+  
 
 > *"GOD Bless Me!"*
 
