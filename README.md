@@ -32,3 +32,11 @@
   <img src="https://github.com/user-attachments/assets/645123e8-1cc3-4ae2-8f64-0be4ccf952b4" height="90" alt="NUS" />
 
 </div>
+
+### 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jiawe1Zhang/Jiawe1Zhang/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jiawe1Zhang/Jiawe1Zhang/output/github-snake.svg" />
+  <img alt="Snake animation of my GitHub contribution graph" src="https://raw.githubusercontent.com/Jiawe1Zhang/Jiawe1Zhang/output/github-snake.svg" width="100%" />
+</picture>
