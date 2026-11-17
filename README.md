@@ -9,7 +9,7 @@
 ### 👋 About Me
 
 - 🎓 Graduate Student in Robotics @ NUS now
-- 🤖 Researching **Robotics & World Model**
+- 🤖 Researching **LLM & Robotics**
   
 
 > *"GOD Bless Me!"*
